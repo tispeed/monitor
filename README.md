@@ -1,8 +1,6 @@
-# [Argon Dashboard PRO Angular](https://demos.creative-tim.com/argon-dashboard-pro-angular/#/) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fargon-dashboard-pro-angular&text=Argon%20Dashboard%20PRO%20Angular%20-%20Premium%20Angular%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%argon-dashboard-pro-angular%2F%3F_ga%3D2.234372891.44370326.1533641128-1803433978.1528781151&via=creativetim&hashtags=angular%2Cbootstrap)
 
 
 
-![version](https://img.shields.io/badge/version-1.1.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro/issues-angular?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-angular/argon-dashboard-pro-angular.gif)
 
